@@ -1,0 +1,16 @@
+{
+  "name": "@xiaoke/github-workflows-test",
+  "version": "1.0.0",
+  "description": "github workflows test e:ci or release and npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "github",
+    "workflows",
+    "test"
+  ],
+  "author": "chenym1992",
+  "license": "MIT"
+}
