@@ -1,6 +1,6 @@
 {
   "name": "@chenym1992/github-workflows-test",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "github workflows test e:ci or release and npm",
   "main": "index.js",
   "scripts": {
