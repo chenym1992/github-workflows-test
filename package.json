@@ -1,6 +1,6 @@
 {
   "name": "chenym1992-github-workflows-test",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "packageManager": "pnpm@7.9.0",
   "description": "github workflows test e:ci or release and npm",
   "main": "index.js",
