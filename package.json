@@ -1,5 +1,5 @@
 {
-  "name": "@chenym1992/github-workflows-test",
+  "name": "chenym1992-github-workflows-test",
   "version": "0.0.9",
   "description": "github workflows test e:ci or release and npm",
   "main": "index.js",
